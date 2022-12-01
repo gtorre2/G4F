@@ -1,0 +1,27 @@
+
+c
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¦™¯ºüÿÿÿÿ
+^
+java:S4488$"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç
+^
+java:S4488."HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ğÄâÿ
+[
+java:S4684;"@Replace this persistent entity with a simple POJO or DTO object.(¬ì«¹üÿÿÿÿ
+e
+java:S44889"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ßƒµ¢şÿÿÿÿ
+[
+java:S4684A"@Replace this persistent entity with a simple POJO or DTO object.(¬ì«¹üÿÿÿÿ
+^
+java:S4488?"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(›¼¹
+c
+java:S4488E"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ñï àÿÿÿÿÿ
+]
+java:S4488M"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(–€ú
+c
+java:S4488T"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(³°üˆúÿÿÿÿ
+^
+java:S4488["HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ôÙŸ•
+d
+java:S4488h"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(•“ÛÏ
+d
+java:S4488o"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(é‹ñÅ
